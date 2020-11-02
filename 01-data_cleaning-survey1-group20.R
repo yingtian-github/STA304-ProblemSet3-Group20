@@ -1,7 +1,7 @@
 #### Preamble ####
 # Purpose: Prepare and clean the survey data downloaded from the Democracy Fund 
 # + UCLA Nationscape ‘Full Data Set’:“ns20200102.dta”. 
-# Author: Ying Tian 
+# Author: Ying Tian (1005174240), Zhaowei Yao (1005333355) Yuqing Wu (1004725737), Baoying Xuan (1004808149)
 # Data: 31 October 2020
 # Contact: taryn.tian@mail.utoronto.ca
 # License: MIT
